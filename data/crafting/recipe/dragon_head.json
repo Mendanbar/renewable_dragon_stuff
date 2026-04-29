@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "#D#",
+    "#E#",
+    "###"
+  ],
+  "key": {
+    "#": "minecraft:diamond",
+    "D": "minecraft:dragon_head",
+    "E": "minecraft:end_stone"
+  },
+  "result": {
+    "id": "minecraft:dragon_head",
+    "count": 2
+  }
+}

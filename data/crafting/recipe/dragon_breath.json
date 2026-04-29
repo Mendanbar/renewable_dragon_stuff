@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:dragon_head",
+    "minecraft:experience_bottle"
+  ],
+  "result": {
+    "id": "minecraft:dragon_breath",
+    "count": 16
+  }
+}
